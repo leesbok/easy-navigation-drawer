@@ -2,6 +2,7 @@
 package name.roupsky.geno.project;
 
 import name.roupsky.geno.easynavigationdrawer.EasyNavigationDrawerBuilder;
+import android.R;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
